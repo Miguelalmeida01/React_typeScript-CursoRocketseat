@@ -15,6 +15,7 @@ Este projeto é uma aplicação de blog totalmente funcional construída usando 
 
 ## Tecnologias Utilizadas
 
+- TYPE SCRIPT
 - REACT
 - CSS
 - HTML
@@ -24,7 +25,7 @@ Este projeto é uma aplicação de blog totalmente funcional construída usando 
 1. Clone o repositório:
 
    ```bash
-   git clone https://github.com/Miguelalmeida01/typeScript-cursoIgnite.git
+   git clone https://github.com/Miguelalmeida01/React_typeScript-CursoRocketseat.git
    ```
 
 2. Navegue até o diretório do projeto:
